@@ -1,0 +1,81 @@
+{
+  "user": [
+    {
+      "name": "John",
+      "address": "Hyderabad",
+      "email": "john1152@gmail.com",
+      "contact": "8589687485",
+      "id": 1
+    },
+    {
+      "name": "Kiran ",
+      "email": "kiran12@gmail.com",
+      "contact": "8528527413",
+      "address": "Mumbai",
+      "id": 4
+    },
+    {
+      "name": "Jack",
+      "email": "jack12@gmail.com",
+      "contact": "96633",
+      "address": "Goa",
+      "id": 9
+    },
+    {
+      "name": "Kiran kumar",
+      "email": "gagan11@gmail.com",
+      "contact": "785555",
+      "address": "Delhi",
+      "id": 10
+    },
+    {
+      "name": "Hemanth",
+      "email": "hemanth123@gmail.com",
+      "contact": "65478963325",
+      "address": "Bangalore",
+      "id": 11
+    },
+    {
+      "name": "Ram Murthy",
+      "email": "murthy37888@gmail.com",
+      "contact": "5826987456",
+      "address": "Hubli",
+      "id": 12
+    },
+    {
+      "name": "Jenny",
+      "email": "jenny098@gmail.com",
+      "contact": "69856589632",
+      "address": "Kochi",
+      "id": 13
+    },
+    {
+      "name": "Bhavana",
+      "email": "bhavan1234@gmail.com",
+      "contact": "4178529635",
+      "address": "Delhi",
+      "id": 14
+    },
+    {
+      "name": "Deepak",
+      "email": "deepak12@gmail.com",
+      "contact": "5874125896",
+      "address": "Shimla",
+      "id": 15
+    },
+    {
+      "name": "Reshma",
+      "email": "reshma899@gmail.com",
+      "contact": "1236548596",
+      "address": "Mumbai",
+      "id": 16
+    },
+    {
+      "name": "Sushma",
+      "email": "sushma234@gmail.com",
+      "contact": "8527418526",
+      "address": "Chennai",
+      "id": 17
+    }
+  ]
+}
